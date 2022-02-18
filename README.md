@@ -4,5 +4,5 @@ Binar Academy Challenge 01, Landing Page
 *Only For Academic Purposes
 
 Technology
-*HTML
-*CSS
+-HTML
+-CSS
