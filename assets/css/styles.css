@@ -11,6 +11,10 @@ body {
   font-size: 14px;
 }
 
+.services {
+  margin-top: 18px;
+}
+
 .dot1 {
   position: relative;
   height: 133px;
@@ -29,6 +33,9 @@ body {
   border-radius: 50%;
   top: -90px;
   left: 400px;
+}
+
+i.fa {
 }
 
 .dot3 {
