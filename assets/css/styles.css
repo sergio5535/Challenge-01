@@ -62,6 +62,29 @@ body {
   margin-bottom: 16px;
 }
 
+.banner {
+  background-color: #0d28a6;
+  position: absolute;
+  width: 1168px;
+  height: 326px;
+  border-radius: 10px;
+}
+
+.midBanner {
+  text-align: center;
+}
+
+.descBox {
+  width: 468px;
+  color: white;
+}
+
+.titleBanner {
+  color: white;
+  font-weight: bold;
+  font-size: 36px;
+}
+
 .circle4 {
   display: inline-block;
   border-radius: 50%;
@@ -83,7 +106,7 @@ body {
 }
 
 .marginCardBodyTesti {
-  margin-top: 50px;
+  margin-top: 60px;
 }
 
 .star {
@@ -93,7 +116,7 @@ body {
 .testiCard {
   width: 619px;
   height: 270px;
-  margin: 40px auto;
+  margin: 40px 32px;
   background-color: #f1f3ff;
 }
 
