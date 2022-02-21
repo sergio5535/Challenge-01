@@ -7,8 +7,142 @@ body {
   overflow-x: hidden;
 }
 
+.testiMiddle {
+  text-align: center;
+}
+
+.serviceDesc {
+  padding-top: 15px;
+}
+
+.check {
+  display: inline-block;
+  border-radius: 50%;
+  box-shadow: 0 0 2px white;
+  width: 24px;
+  height: 24px;
+  padding: 5px 6px;
+  background-color: #cfd4ed;
+  color: #0d28a6;
+}
+
+.circle1 {
+  display: inline-block;
+  border-radius: 50%;
+  box-shadow: 0 0 2px white;
+  width: 32px;
+  height: 32px;
+  padding: 8px;
+  background-color: #f9cc00;
+  color: white;
+  margin-bottom: 16px;
+}
+
+.circle2 {
+  display: inline-block;
+  border-radius: 50%;
+  box-shadow: 0 0 2px white;
+  width: 32px;
+  height: 32px;
+  padding: 9px 9px;
+  background-color: #fa2c5a;
+  color: white;
+  margin-bottom: 16px;
+}
+
+.circle3 {
+  display: inline-block;
+  border-radius: 50%;
+  box-shadow: 0 0 2px white;
+  width: 32px;
+  height: 32px;
+  padding: 8px;
+  background-color: #0d28a6;
+  color: white;
+  margin-bottom: 16px;
+}
+
+.circle4 {
+  display: inline-block;
+  border-radius: 50%;
+  box-shadow: 0 0 2px white;
+  width: 32px;
+  height: 32px;
+  padding: 9px 10px;
+  background-color: #5cb85f;
+  color: white;
+  margin-bottom: 16px;
+}
+
+.displayInlineBlock {
+  display: inline-block;
+}
+
 .btn {
   font-size: 14px;
+}
+
+.marginCardBodyTesti {
+  margin-top: 50px;
+}
+
+.star {
+  color: yellow;
+}
+
+.testiCard {
+  width: 619px;
+  height: 270px;
+  margin: 40px auto;
+  background-color: #f1f3ff;
+}
+
+.roundedImage {
+  border-radius: 50%;
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  margin: 95px 46px 95px;
+}
+
+.roundedButton {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  margin: 10px;
+  padding: 3px;
+  display: inline-block;
+  border: 1px solid #c4c4c4;
+}
+
+.roundedButton:hover {
+  background-color: #5cb85f;
+}
+
+.card-title {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.card-text {
+  font-size: 14px;
+}
+
+.smallBold {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.padding {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.whyCard {
+  width: 268px;
+  height: 196px;
+  margin-top: 20px;
 }
 
 .services {
@@ -33,9 +167,6 @@ body {
   border-radius: 50%;
   top: -90px;
   left: 400px;
-}
-
-i.fa {
 }
 
 .dot3 {
