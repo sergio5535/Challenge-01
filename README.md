@@ -5,7 +5,9 @@ Binar Academy Challenge 01, Landing Page
 
 *Only For Academic Purposes
 
-# Technology
-- ### HTML
-- ### CSS
-- ### Bootstrap 4
+### Technology
+- HTML
+- CSS
+- Bootstrap 4
+- Font Awesome 6
+- Owl Carousel
