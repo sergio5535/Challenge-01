@@ -189,11 +189,29 @@ body {
   color: yellow;
 }
 
+.testiBtnBlack {
+  color: black;
+}
+
+.owl-nav {
+  background-color: transparent;
+  color: transparent;
+}
+
 .testiCard {
   width: 619px;
   height: 270px;
   margin: 40px auto;
   background-color: #f1f3ff;
+}
+
+.middleCard {
+  margin: 40px 50px;
+}
+
+.flexRow2 {
+  display: flex;
+  flex-direction: row;
 }
 
 .roundedImage {
